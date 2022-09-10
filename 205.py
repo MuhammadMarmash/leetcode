@@ -12,7 +12,3 @@ class Solution(object):
         if s == t:
             return True
         return False
-
-
-x = Solution()
-print(x.isIsomorphic("egg", "add"))
