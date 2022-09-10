@@ -28,6 +28,3 @@ class Solution(object):
                 num += x[1]
 
         return result
-
-m = Solution()
-print(m.intToRoman(3))
